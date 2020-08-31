@@ -4,9 +4,9 @@ O objetivo deste exercício é a estilização de um formulário, deve-se utiliz
 
 ## Links de apoio
 
-[w3school css](https://www.w3schools.com/css/)
-[w3school html](https://www.w3schools.com/html/)
+- [w3school css](https://www.w3schools.com/css/)
+- [w3school html](https://www.w3schools.com/html/)
 
 ## Para aprofundar
 
-[How to flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [How to flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
