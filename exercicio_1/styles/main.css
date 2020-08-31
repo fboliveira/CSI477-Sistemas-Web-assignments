@@ -2,20 +2,11 @@ body{
     background-color: #ccc;
 }
 .container {
-
 }
-.form_content{
+.form_content > div > label{
 
 }
 
 .checkbox_form_content_label{
-
-}
-
-label.form_style{
-    
-}
-
-input.form_style{
 
 }
