@@ -4,7 +4,7 @@
 
 ## Como fazer
 
-- Siga este tutorial : [How to](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme)
+- Siga este tutorial : [How To Create A GitHub Profile README](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme)
 
 - No final do tutorial, tem alguns exemplos do que você pode fazer apenas com o Markdown
 
