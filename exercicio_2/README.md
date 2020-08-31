@@ -11,5 +11,5 @@
 ## Links de apoio
 
 - [GitHub Guides](https://guides.github.com/features/mastering-markdown/)
-- [Markdown Guid](https://www.markdownguide.org/basic-syntax/)
+- [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
 - [Pipz academy (tutorial em português)](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
