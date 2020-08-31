@@ -9,4 +9,4 @@ O objetivo deste exercício é a estilização de um formulário, deve-se utiliz
 
 ## Para aprofundar
 
-[How to flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [How to flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
