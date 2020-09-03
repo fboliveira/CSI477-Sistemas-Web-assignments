@@ -4,13 +4,13 @@
 
 ## To Do
 
-- [] encontra o horário atual
-- [] encontrar a diferença entre as datas 
-- [] calcule os dias
-- [] calcule as horas
-- [] calcule os minutos
-- [] calcule os segundos
-- [] insira estas variáveis no html
+- [ ] encontra o horário atual
+- [ ] encontrar a diferença entre as datas 
+- [ ] calcule os dias
+- [ ] calcule as horas
+- [ ] calcule os minutos
+- [ ] calcule os segundos
+- [ ] insira estas variáveis no html
 
 ## Links de apoio
 
