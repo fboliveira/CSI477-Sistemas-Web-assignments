@@ -1,6 +1,6 @@
 # Terceiro exercício
 
-- Este exercício consiste em implementar uma contagem regressiva até uma data pré selecionada. Você pode fazer alterações de estilização utilizando o arquivo css/index.css. Você deve continuar a implementação da função `countDown` que está no arquivo js/index.js. Siga as instruções nela presente e sinta-se a vontade para tirar dúvidas na monitoria ! 
+- Este exercício consiste em implementar uma contagem regressiva até uma data pré selecionada. Você pode fazer alterações de estilização utilizando o arquivo `css/index.css`. Você deve continuar a implementação da função `countDown` que está no arquivo `js/index.js`. Siga as instruções nela presente e sinta-se a vontade para tirar dúvidas na monitoria ! 
 
 ## To Do
 
