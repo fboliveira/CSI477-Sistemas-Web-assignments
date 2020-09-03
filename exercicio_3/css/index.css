@@ -1,0 +1,22 @@
+.countDown {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.countDown-item {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: stretch;
+    padding: 10px;
+    border: 1px #000 solid;
+}
+
+.countDown-number{
+
+}
+
+.countDown-number-subtitle{
+
+}
