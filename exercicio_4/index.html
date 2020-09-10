@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="styles/index.css">
+    <title>Document</title>
+</head>
+
+<body>
+    <div class="container">
+        <div>
+            <label for="github_name">Github Name:</label>
+            <input type="text" id="github_name" name="github_name">
+        </div>
+        <div>
+            <p id="disable_text" hidden>Usuário não existe</p>
+        </div>
+        <div class="div_button">
+            <input type="submit" value="Enviar" onclick=insertRow()>
+        </div>
+
+        <div>
+            <table id="myTable" class="myTable">
+                <thead>
+                    <tr>
+                        <th>login</th>
+                        <th>email</th>
+                        <th>public_repos</th>
+                        <th>followers</th>
+                        <th>following</th>
+                    </tr>
+                </thead>
+                <tbody>
+                </tbody>
+            </table>
+        </div>
+
+    </div>
+    <script src="js/index.js"></script>
+</body>
+
+</html>
